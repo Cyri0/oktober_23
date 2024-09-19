@@ -1,28 +1,32 @@
 Készítette: Trefort Ágoston Villamos- és Fémipari Szakképző Iskola
 és Kollégium (Békéscsaba)
-Műsorterv
-A narrátorok a versek és a zenék közben az eseményeket ismertetik.
-Zene: Dinnyés József: Úton című lemezéről Emeld fel fejedet…
-Vers: Sinka István: Üdv néked ifjúság
-Vers: Pesti József: Forradalom
-Zene: 1956 Aki magyar CD – Ezerkilencszázötvenhat (Dörner György)
-Vers: Illyés Gyula: Egy mondat a zsarnokságról – részletek
-Zene: 1956 Aki magyar …CD Jönnek a tankok (Rudán Joe)
-Vers: Képes Géza: Tank-parádé
-Vers: Petőfi: Nemzeti dal…
-Énekkar: (3 dal)
+
+## Műsorterv
+- A narrátorok a versek és a zenék közben az eseményeket ismertetik.
+- Zene: Dinnyés József: Úton című lemezéről Emeld fel fejedet…
+- Vers: Sinka István: Üdv néked ifjúság
+- Vers: Pesti József: Forradalom
+- Zene: 1956 Aki magyar CD – Ezerkilencszázötvenhat (Dörner György)
+- Vers: Illyés Gyula: Egy mondat a zsarnokságról – részletek
+- Zene: 1956 Aki magyar …CD Jönnek a tankok (Rudán Joe)
+- Vers: Képes Géza: Tank-parádé
+- Vers: Petőfi: Nemzeti dal…
+- Énekkar: (3 dal)
 Most szép lenni katonának
 Huszárgyerek, huszárgyerek
 Gábor Áron rézágyúja
-Zene: 1956 Aki magyar … Aki magyar, velünk tart (Varga Miklós)
-Mindenki az énekkarral: Himnusz és Szózat
-Zene: 1956 Aki magyar… :Nem ölni! (Deák B. Gyula)
-Vers: Tamási Lajos: Piros a vér a pesti utcán
-Énekkar: 1956 (Dorozsmai P. zenéje – Márkus J. és Duncan Shiels verse)
-Zene: Apám hitte (Zorán, Presser lemez)
-Zene: Miért hagytuk, hogy így legyen (Koncz Zsuzsa lemez)
-Díszlet: a színpad két oldalán3-3 lyukas nemzeti színű zászló – középen kivetítő vászon, melyre projektorral a műsor során többször ki lehet vetíteni 1956-os eseményeket – Tükörcserepek Mo.–1956  /videó/ vagy Századunk nagy napjai-Budapest 1956 – Hangdokumentumok a magyar történelemből (1932.1962): „Itt Nagy Imre beszél…”vagy Dinnyés József Úton című lemeze vagy 1956 Aki magyar…rockopera CD vagy kotta és szöveg melléklet…)
-Műsor
+- Zene: 1956 Aki magyar … Aki magyar, velünk tart (Varga Miklós)
+- Mindenki az énekkarral: Himnusz és Szózat
+- Zene: 1956 Aki magyar… :Nem ölni! (Deák B. Gyula)
+- Vers: Tamási Lajos: Piros a vér a pesti utcán
+- Énekkar: 1956 (Dorozsmai P. zenéje – Márkus J. és Duncan Shiels verse)
+- Zene: Apám hitte (Zorán, Presser lemez)
+- Zene: Miért hagytuk, hogy így legyen (Koncz Zsuzsa lemez)
+
+## Díszlet:
+a színpad két oldalán3-3 lyukas nemzeti színű zászló – középen kivetítő vászon, melyre projektorral a műsor során többször ki lehet vetíteni 1956-os eseményeket – Tükörcserepek Mo.–1956  /videó/ vagy Századunk nagy napjai-Budapest 1956 – Hangdokumentumok a magyar történelemből (1932.1962): „Itt Nagy Imre beszél…”vagy Dinnyés József Úton című lemeze vagy 1956 Aki magyar…rockopera CD vagy kotta és szöveg melléklet…)
+
+# Műsor
 Zene:
 Dinnyés József: Úton című lemezéről Emeld fel fejedet…
 Szavaló:
@@ -39,6 +43,7 @@ s mint annyiszor a megsárgult ezer évben
 vérrel és vassal tanítja zsarnokát.
 1. narrátor:
 Mondják, a nemzetek történelmét a győztesek írják, a világtörténelmet, az eseményeket formáló, formálni akaró mindenkori nagyhatalmak szerkesztik. Azt is mondják, csak a jövő biztos, a múlt az bizony néha változhat. Nekünk magyaroknak megadatott ezt a „múltat” megváltoztatni. A bukás tényét nem tudjuk eltörölni, de sikerült felragyogtatni azt az egykori célt, amiért oly sokan fizettek az életükkel, börtönökben töltött évekkel, keserves mellőzésekkel, nélkülözéssel. A korábban megírt történelmet az elbukottak, a vesztesek csak ritkán tudják a világgal újra átértékeltetni, újra íratni. Mi magyarok azon kevesek közé tartozunk, akiknek ez sikerült, megadatott történelmünk során.
+
 Szavaló:
 Pesti József: Forradalom
 Maradt erőnk,
